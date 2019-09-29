@@ -1,0 +1,23 @@
+{
+  "name": "node-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/machaaouri/node-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/machaaouri/node-typescript/issues"
+  },
+  "homepage": "https://github.com/machaaouri/node-typescript#readme",
+  "dependencies": {
+    "typescript": "^3.6.3"
+  }
+}
